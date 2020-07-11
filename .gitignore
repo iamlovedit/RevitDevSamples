@@ -14,3 +14,4 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /RevitDevSamples/.vs/RevitDevSamples/v16
 /Source/.vs/RevitDevSamples/v16/.suo
+/Source/packages/MicrosoftExpressionInteractions.3.0.40218.0
